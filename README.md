@@ -1,6 +1,5 @@
 
 
-readme_text = Tela de Login
 
 Uma tela de login moderna e estilizada feita apenas com **HTML5** e **CSS3**.  
 Possui campos de usuário e senha, opção de lembrar senha, link para recuperação de senha e para criação de nova conta.  
